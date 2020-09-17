@@ -1,6 +1,6 @@
 # Notebooks
 
-This repository contains a series of Jupyter Notebooks I've worked on throughout my studies in Artificial Intelligence, Machine Learning, and Data Science. Below is a comprehensive list:
+This repository contains a series of Jupyter Notebooks I've worked on throughout my studies in Artificial Intelligence, Machine Learning, and Data Science.
 
 * [Logistic Regression Using TensorFlow and Keras](https://github.com/csbanon/notebooks/blob/master/logistic-regression-using-tensorflow-and-keras.ipynb)
 * [Matrix Multiplication Implementation Using NumPy](https://github.com/csbanon/notebooks/blob/master/matrix-multiplication-implementation-using-numpy.ipynb)

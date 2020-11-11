@@ -8,3 +8,5 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 * [Univariate Linear Regression with Batch Gradient Descent](https://github.com/csbanon/notebooks/blob/master/machine-learning/univariate-linear-regression-with-batch-gradient-descent.ipynb)
 
 ## Miscellaneous
+
+* [Matrix Multiplication Implementation Using NumPy](https://github.com/csbanon/notebooks/blob/master/miscellaneous/matrix-multiplication-implementation-using-numpy.ipynb)

@@ -4,8 +4,9 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 
 ## Machine Learning
 
-* [Logistic Regression Using TensorFlow and Keras](https://github.com/csbanon/notebooks/blob/master/machine-learning/logistic-regression-using-tensorflow-and-keras.ipynb)
 * [Univariate Linear Regression with Batch Gradient Descent](https://github.com/csbanon/notebooks/blob/master/machine-learning/univariate-linear-regression-with-batch-gradient-descent.ipynb)
+* [Logistic Regression Using TensorFlow and Keras](https://github.com/csbanon/notebooks/blob/master/machine-learning/logistic-regression-using-tensorflow-and-keras.ipynb)
+* [[Logistic Regression from Scratch Using NumPy](https://github.com/csbanon/notebooks/blob/master/machine-learning/logistic-regression-from-scratch-using-numpy.ipynb)
 
 ## Computer Vision
 

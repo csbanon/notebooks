@@ -11,6 +11,7 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 
 * [2-D Convolution from Scratch Using NumPy](https://github.com/csbanon/notebooks/blob/master/computer-vision/2d-convolution-from-scratch-using-numpy.ipynb)
 * [2-D Max-Pooling from Scratch Using NumPy](https://github.com/csbanon/notebooks/blob/master/computer-vision/2d-max-pooling-from-scratch-using-numpy.ipynb)
+* [Fine-Tuning DenseNet121 for Image Classification](https://github.com/csbanon/notebooks/blob/master/computer-vision/fine-tuning-densenet121-for-image-classification.ipynb)
 
 ## Miscellaneous
 

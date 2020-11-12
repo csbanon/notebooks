@@ -17,3 +17,4 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 ## Miscellaneous
 
 * [Matrix Multiplication Implementation Using NumPy](https://github.com/csbanon/notebooks/blob/master/miscellaneous/matrix-multiplication-implementation-using-numpy.ipynb)
+* [Visualizing Bivariate Functions with Matplotlib](https://github.com/csbanon/notebooks/blob/master/miscellaneous/visualizing-bivariate-functions-with-matplotlib.ipynb)

@@ -15,6 +15,10 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 * [Implementing 2-D Max-Pooling from Scratch](https://github.com/csbanon/notebooks/blob/master/computer-vision/implementing-2d-max-pooling-from-scratch.ipynb)
 * [Visualizing MNIST Digit Averages](https://github.com/csbanon/notebooks/blob/master/computer-vision/visualizing-mnist-digit-averages.ipynb)
 * [Fine-Tuning DenseNet121 for Image Classification](https://github.com/csbanon/notebooks/blob/master/computer-vision/fine-tuning-densenet121-for-image-classification.ipynb)
+* [MNIST Digit Classification with a Fully-Connected Neural Network](https://github.com/csbanon/mnist-classifiers/blob/main/mnist-digits/mnist-digit-classification-with-a-fully-connected-neural-network.ipynb)
+* [MNIST Digit Classification with a Convolutional Neural Network (CNN)](https://github.com/csbanon/mnist-classifiers/blob/main/mnist-digits/mnist-digit-classification-with-a-convolutional-neural-network.ipynb)
+* [MNIST Fashion Item Classification with a Fully-Connected Neural Network](https://github.com/csbanon/mnist-classifiers/blob/main/mnist-fashion-items/mnist-fashion-item-classification-with-a-fully-connected-neural-network.ipynb)
+* [MNIST Fashion Item Classification with a Convolutional Neural Network (CNN)](https://github.com/csbanon/mnist-classifiers/blob/main/mnist-fashion-items/mnist-fashion-item-classification-with-a-convolutional-neural-network.ipynb)
 
 ## Miscellaneous
 

@@ -20,7 +20,7 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 * [MNIST Fashion Item Classification with a Fully-Connected Neural Network](https://github.com/csbanon/mnist-classifiers/blob/main/mnist-fashion-items/mnist-fashion-item-classification-with-a-fully-connected-neural-network.ipynb)
 * [MNIST Fashion Item Classification with a Convolutional Neural Network (CNN)](https://github.com/csbanon/mnist-classifiers/blob/main/mnist-fashion-items/mnist-fashion-item-classification-with-a-convolutional-neural-network.ipynb)
 
-### Natural Language Processing
+### Natural Language Processing (NLP)
 * [IMDB Sentiment Classification with a Fully-Connected Neural Network](https://github.com/csbanon/notebooks/blob/master/nlp/imbd-sentiment-classification-with-a-fully-connected-neural-network.ipynb)
 
 ### Miscellaneous

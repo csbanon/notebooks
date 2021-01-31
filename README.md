@@ -4,10 +4,20 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 
 ### Machine Learning
 
+#### Regression
+
 * [Univariate Linear Regression with Batch Gradient Descent](https://github.com/csbanon/notebooks/blob/master/machine-learning/univariate-linear-regression-with-batch-gradient-descent.ipynb)
 * [Bivariate Linear Regression with Mini-Batch Gradient Descent](https://github.com/csbanon/notebooks/blob/master/machine-learning/bivariate-linear-regression-with-mini-batch-gradient-descent.ipynb)
+
+#### Classification
+
 * [Logistic Regression Implementation with TensorFlow and Keras](https://github.com/csbanon/notebooks/blob/master/machine-learning/logistic-regression-implementation-with-tensorflow-and-keras.ipynb)
 * [Logistic Regression Implementation from Scratch](https://github.com/csbanon/notebooks/blob/master/machine-learning/logistic-regression-implementation-from-scratch.ipynb)
+* [Decision Tree Classification Implementation Using Scikit-Learn](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/decision-tree-classification-implementation-using-scikit-learn.ipynb)
+* [Random Forest Classification Implementation Using Scikit-Learn](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/random-forest-classification-implementation-using-scikit-learn.ipynb)
+* [Naïve Bayes Classification Implementation Using Scikit-Learn](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/naïve-bayes-classification-implementation-using-scikit-learn.ipynb)
+* [*k*-Nearest Neighbors Classification Implementation from Scratch](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/k-nearest-neighbors-classification-implementation-from-scratch.ipynb)
+* [Support Vector Machine (SVM) Implementation Using Scikit-Learn](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/svm-classification-implementation-using-scikit-learn.ipynb)
 
 ### Computer Vision
 

@@ -12,7 +12,7 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 #### Classification
 
 * [Logistic Regression Implementation with TensorFlow and Keras](https://github.com/csbanon/notebooks/blob/master/machine-learning/logistic-regression-implementation-with-tensorflow-and-keras.ipynb)
-* [Logistic Regression Implementation from Scratch](https://github.com/csbanon/notebooks/blob/master/machine-learning/logistic-regression-implementation-from-scratch.ipynb)
+* [Logistic Regression Implementation from Scratch](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/logistic-regression-implementation-from-scratch.ipynb)
 * [Decision Tree Classification Implementation Using Scikit-Learn](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/decision-tree-classification-implementation-using-scikit-learn.ipynb)
 * [Random Forest Classification Implementation Using Scikit-Learn](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/random-forest-classification-implementation-using-scikit-learn.ipynb)
 * [Naïve Bayes Classification Implementation Using Scikit-Learn](https://github.com/csbanon/notebooks/blob/master/machine-learning/classification/naïve-bayes-classification-implementation-using-scikit-learn.ipynb)

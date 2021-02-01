@@ -7,7 +7,7 @@ This repository contains a series of Jupyter Notebooks I've worked on throughout
 #### Regression
 
 * [Univariate Linear Regression Implementation with Batch Gradient Descent from Scratch](https://github.com/csbanon/notebooks/blob/master/machine-learning/regression/univariate-linear-regression-implementation-with-batch-gradient-descent-from-scratch.ipynb)
-* [Bivariate Linear Regression with Mini-Batch Gradient Descent](https://github.com/csbanon/notebooks/blob/master/machine-learning/bivariate-linear-regression-with-mini-batch-gradient-descent.ipynb)
+* [Bivariate Linear Regression Implementation with Mini-Batch Gradient Descent from Scratch](https://github.com/csbanon/notebooks/blob/master/machine-learning/regression/bivariate-linear-regression-implementation-with-mini-batch-gradient-descent-from-scratch.ipynb)
 
 #### Classification
 

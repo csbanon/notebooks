@@ -1,6 +1,6 @@
 # Notebooks
 
-This repository contains a series of Jupyter Notebooks I've worked on throughout my studies in Artificial Intelligence, Machine Learning, and Data Science.
+This repository contains a series of Jupyter Notebooks I've worked on throughout the years, focusing on AI/ML, data science, computer vision, and NLP.
 
 ### Machine Learning
 
